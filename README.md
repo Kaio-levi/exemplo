@@ -1,1 +1,3 @@
---bom dia--
+# bom dia 
+
+Lembrei do comando git commit
